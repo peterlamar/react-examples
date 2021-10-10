@@ -12,6 +12,7 @@ const IndexPage = () => {
         src="../images/mantis-shrimp.jpeg"
       />
     </Layout>
+    
   )
 }
 
